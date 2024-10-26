@@ -1,4 +1,4 @@
 # apnacollege-demo
 This my first repository
 <Br>
-Auther :- Atharva Patre
+Auther :- Atharva Patre (apna college)
